@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "historyId": "b9892cb1-b7e2-44e7-924b-4bec58c5d72f",
+  "currentRevision": "d96fc63b-aad3-4a90-9546-4a13a48da901",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb",
+      "content": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/72/729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb"
+    },
+    "CLAUDE.md": {
+      "hash": "729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb",
+      "content": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/72/729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "19d0e6664e5186c7b00b6cd6811e08c2fc8542fd3d0cf6d75c263996791b73e3",
+      "content": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/19/19d0e6664e5186c7b00b6cd6811e08c2fc8542fd3d0cf6d75c263996791b73e3"
+    },
+    "meta.json": {
+      "hash": "16c87bedbb3c92117480826ed35579979fee4a52fb3eb125befd726b32f05ec9",
+      "content": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/16/16c87bedbb3c92117480826ed35579979fee4a52fb3eb125befd726b32f05ec9"
+    },
+    "package.json": {
+      "hash": "a55e70ceca401de5f1d56edad2d07ca36fdd7caa641c07d12802182519157d51",
+      "content": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/a5/a55e70ceca401de5f1d56edad2d07ca36fdd7caa641c07d12802182519157d51"
+    }
+  },
+  "revisions": {
+    "d96fc63b-aad3-4a90-9546-4a13a48da901": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1795541187946,
+      "endedAt": 1795541187948,
+      "files": {
+        "index.html": {
+          "before": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/bc/bc7ff2e743d8c95e30ff5c0cc87ad41e44151942473924011cdad94a9a5e35fe",
+          "after": "/root/.cache/hyperframes/history/b9892cb1-b7e2-44e7-924b-4bec58c5d72f/blobs/19/19d0e6664e5186c7b00b6cd6811e08c2fc8542fd3d0cf6d75c263996791b73e3"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "aa52905c-cf74-4c34-b702-ad2db67b0484",
+      "completedAt": 1795541260029,
+      "output": "/home/user/Claude-code/reels/prueba/titulo.mp4",
+      "status": "completed",
+      "revision": "d96fc63b-aad3-4a90-9546-4a13a48da901"
+    },
+    "retainedRevisions": [
+      "d96fc63b-aad3-4a90-9546-4a13a48da901"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}
